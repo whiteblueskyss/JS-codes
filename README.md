@@ -3,4 +3,4 @@
 <br>
 <br>
 
-Learnig JS
+Learnig JS from basic to Advanced
